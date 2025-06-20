@@ -84,11 +84,11 @@ Tensorf: ns-train tensorf nerfstudio-data  --data anfield --vis viewer+tensorboa
 
 ETA Curve
 
-![eta](C:\Users\Andyhe\Downloads\eta.png)
+![eta](eta.png)
 
 Training Loss Curve
 
-![training loss](C:\Users\Andyhe\Downloads\training loss.png)
+![training loss](training loss.png)
 
 ## 3. Visualize and Render
 
