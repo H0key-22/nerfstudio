@@ -88,7 +88,7 @@ ETA Curve
 
 Training Loss Curve
 
-![training loss](training loss.png)
+![training loss](training_loss.png)
 
 ## 3. Visualize and Render
 
